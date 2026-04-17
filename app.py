@@ -50,7 +50,7 @@ def align():
             cmd = [
                 "whisperx",
                 audio_path,
-                "--model", "small",
+                "--model", "base",
                 "--language", language,
                 "--device", "cpu",
                 "--compute_type", "int8",
