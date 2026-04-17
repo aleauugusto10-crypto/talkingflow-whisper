@@ -5,3 +5,7 @@ torch==2.2.2
 torchaudio==2.2.2
 numpy<2
 matplotlib
+nltk
+transformers
+pandas==2.2.3
+ctranslate2<4.5.0
